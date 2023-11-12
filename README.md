@@ -13,8 +13,8 @@
  
 <!-- This is start my Skills-->
 
-<h4 align="center" size="">My Skills :</h4>
-    <!--<img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>-->
+### ✌ My Skills :
+    
 <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
 <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white">
@@ -28,7 +28,7 @@
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------- -->
   <!-- This is start Contact Me-->
   
-<h4 align="center" size="">Contact Me :</h4>
+  ### 📞Contact Me :
 
 <!-- TELEGRAM-->
 <a href="https://t.me/Soli96/" target="_blank">
@@ -49,4 +49,28 @@
 <!--    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">    -->
 
  <!-- This is end Contact Me-->
+ 
+ <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+ 
+ <!-- This is start My Stats-->
+ <img  width='95%' src='https://user-images.githubusercontent.com/115100233/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif'>
+  <br><br>
+  
+  ### 😎 My Stats : 
+  
+ ![Anurag's GitHub stats(Aliakbar Soli)](https://github-readme-stats.vercel.app/api?username=AliakbarSoli&theme=highcontrast&show_icons=true)
+
+ 
+ <!--[![](https://visitcount.itsvg.in/api?id=AliakbarSoli&icon=0&color=0)](https://visitcount.itsvg.in)-->
+ 
+  <a href="https://github.com/AliakbarSoli">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliakbarSoli&theme=nightowl&hide_border=true&hide=vim%20script,shell,javascript,css,python" />
+  </a>
+   <!-- This is end My Stats-->
+    <br>
+    
+ <!-- This is start view-->
+ 
+   [![](https://visitcount.itsvg.in/api?id=Soli&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+<!-- This is end view-->
 </div>
