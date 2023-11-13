@@ -54,7 +54,7 @@
  <img  width='95%' src='https://user-images.githubusercontent.com/115100233/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif'>
   <br><br>
   
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&border=true&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
   <details>
     
  <summary> <h3>😎 My Stats : </h3></summary> 
