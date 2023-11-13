@@ -1,7 +1,5 @@
 <div align="center">
 
-  
-  
   <img src="https://i.imgur.com/ok3pnFZ.png" width="250" align="center">
 
 <i><h3 align="center">Hi, I'm Aliakbar Soltani</h3>
@@ -56,19 +54,22 @@
  <img  width='95%' src='https://user-images.githubusercontent.com/115100233/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif'>
   <br><br>
   
-  ### 😎 My Stats : 
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple)](https://github.com/piyushsuthar/github-readme-quotes)
+  <details>
+    
+ <summary> <h3>😎 My Stats : </h3></summary> 
   
- ![Anurag's GitHub stats(Aliakbar Soli)](https://github-readme-stats.vercel.app/api?username=AliakbarSoli&theme=highcontrast&show_icons=true)
+ ![Anurag's GitHub stats(Aliakbar Soli)](https://github-readme-stats.vercel.app/api?username=AliakbarSoli&theme=midnight-purple&show_icons=true)
 
  
  <!--[![](https://visitcount.itsvg.in/api?id=AliakbarSoli&icon=0&color=0)](https://visitcount.itsvg.in)-->
  
   <a href="https://github.com/AliakbarSoli">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliakbarSoli&theme=nightowl&hide_border=true&hide=vim%20script,shell,javascript,css,python" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliakbarSoli&theme=midnight-purple&hide_border=true&hide=vim%20script,shell,javascript,css,python" />
   </a>
    <!-- This is end My Stats-->
     <br>
-    
+      </details>
  <!-- This is start view-->
  
    [![](https://visitcount.itsvg.in/api?id=Soli&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
