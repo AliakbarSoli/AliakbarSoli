@@ -65,7 +65,7 @@
  <!--[![](https://visitcount.itsvg.in/api?id=AliakbarSoli&icon=0&color=0)](https://visitcount.itsvg.in)-->
  
   <a href="https://github.com/AliakbarSoli">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliakbarSoli&theme=midnight-purple&hide_border=true&hide=vim%20script,shell,javascript,css,python" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliakbarSoli&theme=midnight-purple&hide_border=true&hide=vim%20html,javascript,css,python,cpp" />
   </a>
    <!-- This is end My Stats-->
     <br>
