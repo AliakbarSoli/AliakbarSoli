@@ -1,8 +1,9 @@
 <div align="center">
 
-  <img src="https://i.imgur.com/ok3pnFZ.png" width="250" align="center">
+  <!--<img src="https://i.imgur.com/ok3pnFZ.png" width="250" align="center">-->
 
-<i><h3 align="center">Hi, I'm Aliakbar Soltani</h3>
+
+# Hi, I'm Aliakbar Soltani
 
 
 <img  width='95%' src='https://user-images.githubusercontent.com/115100233/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif'>
@@ -54,24 +55,20 @@
  <img  width='95%' src='https://user-images.githubusercontent.com/115100233/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif'>
   <br><br>
   
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&border=true&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
-  <details>
-    
- <summary> <h3>😎 My Stats : </h3></summary> 
+<!--  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&border=true&theme=algolia)]--> 
+
+<h3>😎 My Stats : </h3>
   
  ![Anurag's GitHub stats(Aliakbar Soli)](https://github-readme-stats.vercel.app/api?username=AliakbarSoli&theme=midnight-purple&show_icons=true)
 
  
  <!--[![](https://visitcount.itsvg.in/api?id=AliakbarSoli&icon=0&color=0)](https://visitcount.itsvg.in)-->
  
-  <a href="https://github.com/AliakbarSoli">
+  <!--<a href="https://github.com/AliakbarSoli">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliakbarSoli&theme=midnight-purple&hide_border=true&hide=vim%20html,javascript,css,py,cpp,html,css,js" />
-  </a>
+  </a>-->
    <!-- This is end My Stats-->
-    <br>
-      </details>
  <!-- This is start view-->
- 
    [![](https://visitcount.itsvg.in/api?id=Soli&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 <!-- This is end view-->
 </div>
