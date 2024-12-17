@@ -13,11 +13,8 @@
 <!-- This is start my Skills-->
 
 ### ✌ My Skills :
-    
-<img src= "https://img.shields.io/badge/-Css3-black?style=for-the-badge&logo=Css3&logoColor=%23ffffff">
-<img src= "https://img.shields.io/badge/-Html5-black?style=for-the-badge&logo=Html5&logoColor=%23ffffff">
+
 <img src="https://img.shields.io/badge/-SQl_Server-black?style=for-the-badge&logo=Microsoft%20SQL%20Server">
-<img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=C%23">
 <img src="https://img.shields.io/badge/-c%2B%2B-black?style=for-the-badge&logo=C%2B%2B">
 
 <br>
